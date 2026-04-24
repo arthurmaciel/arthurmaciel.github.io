@@ -1,0 +1,4 @@
+theme = 'hugo-bearcub'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
