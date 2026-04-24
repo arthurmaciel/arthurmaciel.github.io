@@ -1,3 +1,6 @@
 baseURL = 'http://arthurmaciel.github.io/'
 languageCode = 'en-us'
 title = 'Arthur Maciel - comp stuff'
+
+[params]
+author = "Arthur"
