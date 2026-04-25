@@ -9,4 +9,7 @@ weight: 1
 I am quite interested in programming languages. This website is a place to register little discoveries, simple contributions to open source projects and ideas about a world efficiently and humanely improved by tech.
 
 
-[![Github link](/images/github.gif)](https://github.com/arthurmaciel) [Github](https://github.com/arthurmaciel)
+<p align="center">
+  <img src="/images/github.gif" alt="Github link to arthurmaciel profile" width="25" height="25">
+  <img src="/images/pixelfed.svg" alt="Pixelfed link to arthurmaciel profile" width="25" height="25">
+</p>
