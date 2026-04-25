@@ -12,6 +12,6 @@ I am quite interested in programming languages. This website is a place to regis
 {{< rawhtml >}}
 <p align="center">
   <a href="https://github.com/arthurmaciel"><img src="/images/github.gif" alt="Github link to arthurmaciel profile" width="25" height="25"></a>
-  <a href="https://pixelfed.social/arthurmaciel"><img src="/images/pixelfed.svg" alt="Pixelfed link to arthurmaciel profile"></a>
+  <a href="https://pixelfed.social/arthurmaciel"><img src="/images/pixelfed.svg" alt="Pixelfed link to arthurmaciel profile" width="25" height="25"></a>
 </p>
 {{< /rawhtml >}}
